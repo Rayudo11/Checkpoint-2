@@ -1,0 +1,35 @@
+[
+    {
+        "Id": "1",
+        "Name": "Alphalete",
+        "Address": "1502 Industrial Dr, Missouri City, TX 77489",
+        "HoursOfOperation": "5am-11pm",
+        "Description": "Fitness Aparrel"
+
+    },
+    {
+        "Id": "2",
+        "Name": "Gold's Gym",
+        "Address": "4909 E Cesar Chavez St suite c, Austin, TX 78702",
+        "HoursOfOperation": "5am-11pm",
+        "Description": "Fitness Aparrel"
+
+    },
+    {
+        "Id": "3",
+        "Name": "Planet Fitness",
+        "Address": "1819 S Pleasant Valley Rd, Austin, TX 78741",
+        "HoursOfOperation": "5am-11pm",
+        "Description": "Fitness Aparrel"
+
+    },
+    {
+        "Id": "4",
+        "Name": "Onnit Gym",
+        "Address": "4401 Freidrich Ln #301, Austin, TX 78744",
+        "HoursOfOperation": "5am-11pm",
+        "Description": "Fitness Aparrel"
+
+    }
+
+]
